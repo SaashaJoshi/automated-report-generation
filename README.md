@@ -1,8 +1,8 @@
-## Automated Report Generation
+# Automated Report Generation
 
 Automatically generate shareable HTML reports from any Excel file using combination of tools, centered around Python.
 
-# Steps 
+## Steps 
 1. Creating a Jupyter Notebook reports from Excel files.
     >sales_january.xlsx 
     
@@ -24,5 +24,5 @@ Automatically generate shareable HTML reports from any Excel file using combinat
     
     >papermill_automated.ipynb
     
-# Reference
+## Reference
 [Practical Business Python](https://pbpython.com/papermil-rclone-report-1.html)
